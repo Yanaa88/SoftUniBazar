@@ -1,0 +1,7 @@
+/.dockerignore
+/.vs
+/docker-compose.yaml
+/Dockerfile
+/Terraform
+/Y_L88-docker-exam
+/Y_L88-docker-exam.rar
